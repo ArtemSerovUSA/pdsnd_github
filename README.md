@@ -17,3 +17,6 @@ washington.csv
 ### Credits
 All credits belong to Udacity.
 Thanks.
+
+### Author
+Artem Serov
