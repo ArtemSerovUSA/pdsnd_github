@@ -7,10 +7,13 @@ This README was created on 2021-09-28
 My Git project
 
 ### Description
-Describe what your project is about and what it does
+Project is about creating remote repository for python program that analyzes dataset in csv file
 
-### Files used
-Include the files used
+### Data Files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+All credits belong to Udacity.
+Thanks.
