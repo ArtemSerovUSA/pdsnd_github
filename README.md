@@ -4,7 +4,7 @@
 This README was created on 2021-09-28
 
 ### Project Title
-Replace the Project Title
+My Git project
 
 ### Description
 Describe what your project is about and what it does
