@@ -4,7 +4,7 @@
 This README was created on 2021-09-28
 
 ### Project Title
-My Git project
+Hosting Bikeshare project
 
 ### Description
 Project is about creating remote repository for python program that analyzes dataset in csv file
