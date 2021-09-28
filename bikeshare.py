@@ -213,6 +213,9 @@ def user_stats(df):
 
 
 def secret_function():
+    """
+    Creates insanely high quality graphics
+    """
     print('     _________')
     print('    / ======= \\')
     print('   / __________\\')
